@@ -8,7 +8,7 @@ This work is to evaluate the efficiency of augmenting efficient self-attention m
 
 ## Efficient VIT Reference Code
 
-[PyTorch official implementation](https://github.com/microsoft/vision-longformer)
+[Microsoft official implementation](https://github.com/microsoft/vision-longformer)
 
 ## Some Augmented Reference
 
