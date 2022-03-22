@@ -21,3 +21,4 @@ https://github.com/sebastiani/pytorch-attention-augmented-convolution
 https://arxiv.org/pdf/1904.09925.pdf
 
 ## Useful package
+https://github.com/TylerYep/torchinfo
